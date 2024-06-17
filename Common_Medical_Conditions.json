@@ -1,0 +1,402 @@
+[
+  {
+    "disease_name": "Diabetes",
+    "about": "Diabetes is a chronic health condition that affects how your body turns food into energy.",
+    "causes": "Caused by either the pancreas not producing enough insulin or the body not effectively using the insulin produced.",
+    "symptoms": "Increased thirst, Frequent urination, Extreme hunger, Unexplained weight loss, Fatigue, Blurred vision, Slow-healing sores, Frequent infections",
+    "treatments": "Lifestyle changes (diet and exercise), blood sugar monitoring, insulin therapy, and medications.",
+    "source_link": "https://www.cdc.gov/diabetes/basics/diabetes.html"
+  },
+  {
+    "disease_name": "Depression",
+    "about": "Depression is a common and serious medical illness that negatively affects how you feel, the way you think, and how you act.",
+    "causes": "Can be caused by a combination of genetic, biological, environmental, and psychological factors.",
+    "symptoms": "Persistent sad, anxious, or \u201cempty\u201d mood, Loss of interest or pleasure in activities, Feelings of hopelessness or pessimism, Irritability, Feelings of guilt, worthlessness, or helplessness, Decreased energy or fatigue, Difficulty concentrating, remembering, or making decisions, Sleep disturbances (insomnia or oversleeping), Appetite or weight changes, Thoughts of death or suicide",
+    "treatments": "Medications, psychotherapy, lifestyle changes, and sometimes electroconvulsive therapy (ECT).",
+    "source_link": "https://www.nimh.nih.gov/health/topics/depression"
+  },
+  {
+    "disease_name": "Anxiety",
+    "about": "Anxiety disorders involve excessive fear or anxiety that affects daily living.",
+    "causes": "A combination of genetic, environmental, and psychological factors.",
+    "symptoms": "Feeling nervous, restless, or tense, Having a sense of impending danger, panic, or doom, Increased heart rate, Rapid breathing (hyperventilation), Sweating, Trembling, Feeling weak or tired, Trouble concentrating or thinking about anything other than the present worry, Sleep disturbances",
+    "treatments": "Therapy, medications, and lifestyle changes.",
+    "source_link": "https://www.nimh.nih.gov/health/topics/anxiety-disorders"
+  },
+  {
+    "disease_name": "Hemorrhoids",
+    "about": "Hemorrhoids are swollen veins in the lower rectum and anus.",
+    "causes": "Straining during bowel movements, sitting for long periods of time, chronic constipation or diarrhea, and pregnancy.",
+    "symptoms": "Pain or discomfort, Itching or irritation, Swelling around the anus, Bleeding during bowel movements, A lump near the anus",
+    "treatments": "Home remedies, lifestyle changes, over-the-counter treatments, and sometimes surgical procedures.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/hemorrhoids"
+  },
+  {
+    "disease_name": "Yeast Infection",
+    "about": "A yeast infection is a fungal infection typically caused by Candida species, particularly Candida albicans.",
+    "causes": "Imbalance in the yeast and bacteria in the vagina, use of antibiotics, high estrogen levels, uncontrolled diabetes, and impaired immune system.",
+    "symptoms": "Itching and irritation in the vagina and vulva, A burning sensation, especially during intercourse or while urinating, Redness and swelling of the vulva, Vaginal pain and soreness, Thick, white, odor-free vaginal discharge with a cottage cheese appearance, Watery vaginal discharge",
+    "treatments": "Antifungal medications, either prescribed or over-the-counter, and lifestyle modifications.",
+    "source_link": "https://www.cdc.gov/fungal/diseases/candidiasis/genital/index.html"
+  },
+  {
+    "disease_name": "Lupus",
+    "about": "Lupus is a chronic autoimmune disease that can cause inflammation and pain in any part of your body.",
+    "causes": "The exact cause is unknown but involves genetic, hormonal, and environmental factors.",
+    "symptoms": "Fatigue, Fever, Joint pain, stiffness, and swelling, Butterfly-shaped rash on the face, Skin lesions that appear or worsen with sun exposure, Shortness of breath, Chest pain, Dry eyes, Headaches, confusion, and memory loss",
+    "treatments": "Medications, lifestyle changes, and regular follow-up care.",
+    "source_link": "https://www.lupus.org/resources/what-is-lupus"
+  },
+  {
+    "disease_name": "Shingles",
+    "about": "Shingles is a viral infection that causes a painful rash.",
+    "causes": "Caused by the varicella-zoster virus, the same virus that causes chickenpox.",
+    "symptoms": "Pain, burning, numbness, or tingling, Sensitivity to touch, Red rash that begins a few days after the pain, Fluid-filled blisters that break open and crust over, Itching, Fever, Headache, Sensitivity to light, Fatigue",
+    "treatments": "Antiviral medications, pain relievers, and sometimes corticosteroids.",
+    "source_link": "https://www.cdc.gov/shingles/about/index.html"
+  },
+  {
+    "disease_name": "Psoriasis",
+    "about": "Psoriasis is a chronic autoimmune condition that causes the rapid build-up of skin cells.",
+    "causes": "Believed to be related to an immune system problem with T cells and other white blood cells.",
+    "symptoms": "Red patches of skin covered with thick, silvery scales, Dry, cracked skin that may bleed, Itching, burning, or soreness, Thickened, pitted, or ridged nails, Swollen and stiff joints",
+    "treatments": "Topical treatments, light therapy, and systemic medications.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/psoriasis"
+  },
+  {
+    "disease_name": "Schizophrenia",
+    "about": "Schizophrenia is a chronic brain disorder that affects how a person thinks, feels, and behaves.",
+    "causes": "A combination of genetic, brain chemistry, and environmental factors.",
+    "symptoms": "Hallucinations, Delusions, Disorganized thinking, Extremely disorganized or abnormal motor behavior, Negative symptoms (diminished emotional expression, lack of motivation), Reduced speaking, Difficulty concentrating, Memory problems",
+    "treatments": "Antipsychotic medications, psychotherapy, and coordinated specialty care services.",
+    "source_link": "https://www.nimh.nih.gov/health/topics/schizophrenia"
+  },
+  {
+    "disease_name": "Lyme Disease",
+    "about": "Lyme disease is an infectious disease caused by the bacterium Borrelia burgdorferi, transmitted to humans through the bite of infected black-legged ticks.",
+    "causes": "The disease is caused by the bacterium Borrelia burgdorferi, transmitted to humans through the bite of infected black-legged ticks.",
+    "symptoms": "Erythema migrans (EM) rash: A bull's-eye shaped rash that appears at the site of the tick bite, usually within 3 to 30 days., Flu-like symptoms: Fever, chills, fatigue, body aches, and headache., Joint pain: Intermittent pain and swelling in the joints, particularly the knees., Neurological problems: Numbness, tingling, or pain in the limbs, Bell's palsy (facial drooping), and sometimes meningitis or encephalitis.",
+    "treatments": "Antibiotics such as doxycycline, amoxicillin, or cefuroxime. Treatment duration typically ranges from 10 to 21 days.",
+    "source_link": "https://www.cdc.gov/lyme"
+  },
+  {
+    "disease_name": "HPV",
+    "about": "HPV is a group of more than 200 related viruses, some of which can lead to cancer. It is the most common sexually transmitted infection (STI).",
+    "causes": "HPV is transmitted through intimate skin-to-skin contact, often during vaginal, anal, or oral sex with an infected person.",
+    "symptoms": "Genital warts: Small, flesh-colored or gray swellings in the genital area., Common warts: Rough, raised bumps that usually occur on the hands and fingers., Plantar warts: Hard, grainy growths that appear on the heels or balls of the feet., Flat warts: Flat-topped, slightly raised lesions, usually on the face, neck, or areas that get scratched frequently., Cervical dysplasia: Changes in the cells on the cervix that can be precancerous, often detected through a Pap test.",
+    "treatments": "While there's no cure for the virus itself, treatments focus on the health problems caused by HPV, such as removal of warts and monitoring and treating any abnormal cervical changes.",
+    "source_link": "https://www.cdc.gov/std/hpv"
+  },
+  {
+    "disease_name": "Herpes",
+    "about": "Herpes is a common viral infection caused by the herpes simplex virus (HSV), which results in sores on the mouth or genitals.",
+    "causes": "Herpes is caused by two types of viruses: HSV-1 (typically oral herpes) and HSV-2 (typically genital herpes). Transmission occurs through contact with an infected person's sores, saliva, or genital secretions.",
+    "symptoms": "Pain or itching: Usually occurs in the genital area, buttocks, and inner thighs., Small red bumps or tiny white blisters: These may appear several days to a few weeks after infection., Ulcers: Form when blisters rupture and ooze or bleed., Scabs: Form as ulcers heal., Flu-like symptoms: Fever, body aches, and swollen lymph nodes during initial outbreak., Tingling, itching, or burning: Often precedes the appearance of blisters (prodromal symptoms).",
+    "treatments": "Antiviral medications such as acyclovir, valacyclovir, and famciclovir can help reduce the severity and frequency of symptoms but do not cure the infection.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/genital-herpes"
+  },
+  {
+    "disease_name": "Pneumonia",
+    "about": "Pneumonia is an infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus.",
+    "causes": "It can be caused by various organisms, including bacteria, viruses, and fungi.",
+    "symptoms": "Chest pain: Often sharp or stabbing, worsened by deep breathing or coughing., Confusion or changes in mental awareness: Particularly in older adults., Cough: May produce phlegm or pus., Fatigue: General feeling of tiredness and weakness., Fever, sweating, and shaking chills., Lower-than-normal body temperature: More common in older adults and people with weakened immune systems., Nausea, vomiting, or diarrhea., Shortness of breath: Can be mild to severe.",
+    "treatments": "Treatment depends on the type and severity of pneumonia and includes antibiotics for bacterial pneumonia, antiviral medication for viral pneumonia, and antifungal treatment for fungal pneumonia. Supportive care includes rest, fluids, and over-the-counter medications to relieve pain and fever.",
+    "source_link": "https://www.cdc.gov/pneumonia"
+  },
+  {
+    "disease_name": "Fibromyalgia",
+    "about": "Fibromyalgia is a disorder characterized by widespread musculoskeletal pain accompanied by fatigue, sleep, memory, and mood issues.",
+    "causes": "The exact cause is unknown but may involve a combination of genetic, environmental, and psychological factors.",
+    "symptoms": "Widespread pain: Often described as a constant dull ache that lasts for at least three months., Fatigue: Even after long periods of sleep, people often wake up tired., Cognitive difficulties: Often referred to as 'fibro fog,' it impairs the ability to focus, pay attention, and concentrate., Sleep disturbances: Including restless legs syndrome and sleep apnea., Depression and anxiety: Often co-occur with fibromyalgia., Headaches: Including tension headaches and migraines., Irritable bowel syndrome (IBS): Commonly occurs in people with fibromyalgia.",
+    "treatments": "There is no cure, but treatments can help manage symptoms, including medications (pain relievers, antidepressants, anti-seizure drugs), physical therapy, counseling, and lifestyle changes.",
+    "source_link": "https://www.cdc.gov/arthritis/basics/fibromyalgia.htm"
+  },
+  {
+    "disease_name": "Scabies",
+    "about": "Scabies is a contagious skin condition caused by tiny mites called Sarcoptes scabiei that burrow into the skin.",
+    "causes": "It is caused by infestation with the scabies mite, which spreads through direct, prolonged, skin-to-skin contact with an infected person.",
+    "symptoms": "Itching: Severe and often worse at night., Rash: Small, red bumps and blisters, typically found in skin folds., Burrow tracks: Thin, irregular lines made up of tiny blisters or bumps on the skin., Sores: Result from scratching the itchy areas., Thick crusts on the skin: Seen in severe cases, particularly in people with weakened immune systems (crusted or Norwegian scabies).",
+    "treatments": "Scabies is treated with prescription scabicide medications that kill the mites and their eggs, such as permethrin cream or oral ivermectin. All household members and close contacts should be treated at the same time.",
+    "source_link": "https://www.cdc.gov/parasites/scabies"
+  },
+  {
+    "disease_name": "Chlamydia",
+    "about": "Chlamydia is a common sexually transmitted infection caused by the bacterium Chlamydia trachomatis.",
+    "causes": "It is caused by the bacterium Chlamydia trachomatis and is transmitted through sexual contact with an infected person.",
+    "symptoms": "Painful urination., Lower abdominal pain., Vaginal discharge in women., Discharge from the penis in men., Painful sexual intercourse in women., Bleeding between periods and after sex in women., Testicular pain in men.",
+    "treatments": "Chlamydia is treated with antibiotics, typically azithromycin or doxycycline. Sexual partners should also be tested and treated to prevent reinfection.",
+    "source_link": "https://www.cdc.gov/std/chlamydia"
+  },
+  {
+    "disease_name": "Endometriosis",
+    "about": "Endometriosis is a painful condition where tissue similar to the lining inside the uterus grows outside the uterus, often affecting the ovaries, fallopian tubes, and the tissue lining the pelvis.",
+    "causes": "The exact cause is unknown, but possible factors include retrograde menstruation, immune system disorders, and genetic factors.",
+    "symptoms": "Painful periods (dysmenorrhea): Severe cramping that starts before and extends several days into the menstrual period., Pain with intercourse: Discomfort or pain during or after sex., Pain with bowel movements or urination: These symptoms are more pronounced during menstrual periods., Excessive bleeding: Heavy menstrual periods or bleeding between periods., Infertility: Some discover they have endometriosis while seeking treatment for infertility., Other symptoms: Fatigue, diarrhea, constipation, bloating, and nausea, especially during menstrual periods.",
+    "treatments": "Treatment includes pain relief (NSAIDs), hormone therapy (oral contraceptives, progestins), and surgical options (laparoscopy to remove or destroy endometrial tissue).",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/endometriosis"
+  },
+  {
+    "disease_name": "Strep Throat",
+    "about": "Strep throat is a bacterial infection that causes inflammation and pain in the throat.",
+    "causes": "It is caused by the bacteria Streptococcus pyogenes, or group A streptococcus, which can spread through respiratory droplets or shared personal items.",
+    "symptoms": "Throat pain that comes on quickly, Painful swallowing, Red and swollen tonsils, sometimes with white patches or streaks of pus, Tiny red spots on the back of the roof of the mouth, Swollen, tender lymph nodes in the neck, Fever, Headache, Rash, Nausea or vomiting, especially in younger children, Body aches",
+    "treatments": "Antibiotics such as penicillin or amoxicillin are commonly used. Supportive treatments include pain relievers, hydration, and rest.",
+    "source_link": "https://www.cdc.gov/groupastrep/diseases-public/strep-throat.html"
+  },
+  {
+    "disease_name": "Diverticulitis",
+    "about": "Diverticulitis is an inflammation or infection of small pouches called diverticula that can form along the walls of the intestines.",
+    "causes": "It occurs when diverticula become blocked with waste, bacteria, or undigested food, leading to infection.",
+    "symptoms": "Severe abdominal pain, often on the lower left side, Fever, Nausea and vomiting, Abdominal tenderness, Changes in bowel habits, such as constipation or diarrhea",
+    "treatments": "Treatment may include antibiotics, a liquid diet to allow the colon to heal, and, in severe cases, surgery.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/diverticulitis/symptoms-causes/syc-20371758"
+  },
+  {
+    "disease_name": "Bronchitis",
+    "about": "Bronchitis is the inflammation of the lining of your bronchial tubes, which carry air to and from your lungs.",
+    "causes": "It is usually caused by viral infections, but can also be triggered by bacterial infections or exposure to irritants such as tobacco smoke, dust, fumes, and air pollution.",
+    "symptoms": "Cough that produces mucus (sputum), which can be clear, white, yellowish-gray, or green, Fatigue, Shortness of breath, Slight fever and chills, Chest discomfort",
+    "treatments": "Treatment focuses on relieving symptoms and may include rest, fluids, pain relievers, and, in some cases, antibiotics if a bacterial infection is present.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/bronchitis/symptoms-causes/syc-20355566"
+  },
+  {
+    "disease_name": "Asthma",
+    "about": "Asthma is a condition in which your airways narrow and swell and may produce extra mucus, leading to difficulty in breathing.",
+    "causes": "The exact cause of asthma is unknown, but it is believed to be a combination of genetic and environmental factors.",
+    "symptoms": "Shortness of breath, Chest tightness or pain, Wheezing when exhaling, which is a common sign of asthma in children, Trouble sleeping caused by shortness of breath, coughing, or wheezing, Coughing or wheezing attacks that are worsened by a respiratory virus, such as a cold or the flu",
+    "treatments": "Asthma treatments include inhaled corticosteroids, long-acting beta agonists, combination inhalers, and quick-relief inhalers.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653"
+  },
+  {
+    "disease_name": "Arthritis",
+    "about": "Arthritis is the swelling and tenderness of one or more of your joints, causing joint pain and stiffness that can worsen with age.",
+    "causes": "It is caused by wear and tear of cartilage, infections, or autoimmune diseases.",
+    "symptoms": "Pain, Stiffness, Swelling, Redness, Decreased range of motion",
+    "treatments": "Treatments vary depending on the type of arthritis and may include medications, physical therapy, lifestyle changes, and sometimes surgery.",
+    "source_link": "https://www.cdc.gov/arthritis/basics/index.html"
+  },
+  {
+    "disease_name": "Hypertension (High Blood Pressure)",
+    "about": "Hypertension is a condition in which the force of the blood against your artery walls is too high, which can lead to health problems, such as heart disease.",
+    "causes": "It can develop due to unhealthy lifestyle choices, such as not getting enough regular physical activity. Certain health conditions, such as diabetes and obesity, can also increase the risk.",
+    "symptoms": "Often has no symptoms, Severe hypertension can cause headaches, Shortness of breath, Nosebleeds",
+    "treatments": "Lifestyle changes such as healthy diet, regular exercise, and medications as prescribed by a healthcare provider.",
+    "source_link": "https://www.cdc.gov/bloodpressure/about.htm"
+  },
+  {
+    "disease_name": "Influenza (Flu)",
+    "about": "Influenza is a viral infection that attacks your respiratory system \u2014 your nose, throat, and lungs.",
+    "causes": "It is caused by influenza viruses that spread mainly by droplets made when people with flu cough, sneeze, or talk.",
+    "symptoms": "Fever or feeling feverish/chills, Cough, Sore throat, Runny or stuffy nose, Muscle or body aches, Headaches, Fatigue, Some people may have vomiting and diarrhea",
+    "treatments": "Treatment includes antiviral medications, rest, and fluids. Annual flu vaccination is the best way to prevent the flu.",
+    "source_link": "https://www.cdc.gov/flu/symptoms/index.html"
+  },
+  {
+    "disease_name": "Common Cold",
+    "about": "The common cold is a viral infection of your nose and throat (upper respiratory tract).",
+    "causes": "It is caused by viruses, with rhinoviruses being the most common culprit.",
+    "symptoms": "Runny or stuffy nose, Sore throat, Cough, Congestion, Slight body aches or a mild headache, Sneezing, Low-grade fever, Generally feeling unwell (malaise)",
+    "treatments": "There is no cure for the common cold. Treatment involves symptom relief through rest, fluids, and over-the-counter medications.",
+    "source_link": "https://www.cdc.gov/dotw/common-cold/index.html"
+  },
+  {
+    "disease_name": "Gastroenteritis (Stomach Flu)",
+    "about": "Gastroenteritis is an inflammation of the stomach and intestines, typically resulting from bacterial toxins or viral infection.",
+    "causes": "It is often caused by viruses such as norovirus or rotavirus. Bacteria such as E. coli and Salmonella can also cause it.",
+    "symptoms": "Watery diarrhea, Abdominal cramps and pain, Nausea, vomiting, or both, Occasional muscle aches or headache, Low-grade fever",
+    "treatments": "Treatment includes rest, hydration, and over-the-counter medications for symptom relief. Severe cases may require medical attention.",
+    "source_link": "https://www.cdc.gov/norovirus/about/symptoms.html"
+  },
+  {
+    "disease_name": "Migraine",
+    "about": "A migraine is a headache disorder characterized by recurrent headaches that are moderate to severe.",
+    "causes": "The exact cause of migraines is not fully understood, but they are believed to be related to genetic and environmental factors.",
+    "symptoms": "Throbbing or pulsing pain, usually on one side of the head, Sensitivity to light, sound, and sometimes smell and touch, Nausea and vomiting, Blurred vision, Lightheadedness, sometimes followed by fainting",
+    "treatments": "Treatment can include pain-relieving medications, preventive medications, lifestyle changes, and avoiding migraine triggers.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/migraine-headache/symptoms-causes/syc-20360201"
+  },
+  {
+    "disease_name": "Eczema",
+    "about": "Eczema, also known as atopic dermatitis, is a condition that makes your skin red and itchy.",
+    "causes": "The exact cause of eczema is unknown, but it is thought to be linked to an overactive immune response to an irritant. It can be triggered by environmental factors or genetics.",
+    "symptoms": "Dry, sensitive skin, Red, inflamed skin, Severe itching, Dark colored patches of skin, Rough, leathery, or scaly patches of skin, Oozing or crusting, Areas of swelling",
+    "treatments": "Treatment includes moisturizing ointments, steroid creams, and in some cases, oral medications to reduce inflammation and immune responses. Avoiding triggers and practicing good skin care can help manage symptoms.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273"
+  },
+  {
+    "disease_name": "Irritable Bowel Syndrome (IBS)",
+    "about": "IBS is a common disorder that affects the large intestine, causing symptoms like cramping, abdominal pain, bloating, gas, diarrhea, and constipation.",
+    "causes": "The exact cause of IBS is unknown, but it may be related to a combination of abnormal gastrointestinal motility, increased sensitivity of the gut, and disturbances in brain-gut interactions. Stress, diet, and gut bacteria changes can trigger symptoms.",
+    "symptoms": "Abdominal pain or cramping, Bloating, Gas, Diarrhea, constipation, or alternating between the two, Mucus in stool",
+    "treatments": "Treatment involves dietary changes (such as a low FODMAP diet), increased physical activity, stress management, and medications to manage symptoms. Probiotics and mental health therapies like cognitive behavioral therapy can also help.",
+    "source_link": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome"
+  },
+  {
+    "disease_name": "Celiac Disease",
+    "about": "Celiac disease is an autoimmune disorder where ingestion of gluten leads to damage in the small intestine.",
+    "causes": "It is caused by an immune reaction to eating gluten, a protein found in wheat, barley, and rye. Genetic factors also play a significant role.",
+    "symptoms": "Diarrhea, Fatigue, Weight loss, Bloating and gas, Abdominal pain, Nausea and vomiting, Constipation",
+    "treatments": "The only effective treatment for celiac disease is a strict gluten-free diet, which helps heal the intestinal lining and prevent further damage.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/celiac-disease/symptoms-causes/syc-20352220"
+  },
+  {
+    "disease_name": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "about": "COPD is a chronic inflammatory lung disease that causes obstructed airflow from the lungs.",
+    "causes": "The primary cause is long-term exposure to irritants that damage the lungs and airways, most commonly cigarette smoke. Other causes include exposure to air pollutants, occupational dust and chemicals, and genetic factors.",
+    "symptoms": "Shortness of breath, Wheezing, Chest tightness, Chronic cough, Frequent respiratory infections, Lack of energy, Unintended weight loss",
+    "treatments": "Treatment includes quitting smoking, medications such as bronchodilators and steroids, pulmonary rehabilitation, and supplemental oxygen. In severe cases, surgery may be required.",
+    "source_link": "https://www.cdc.gov/copd/index.html"
+  },
+  {
+    "disease_name": "Tuberculosis",
+    "about": "Tuberculosis (TB) is a potentially serious infectious disease that mainly affects the lungs, caused by the bacteria Mycobacterium tuberculosis.",
+    "causes": "TB is spread through the air when an infected person coughs, sneezes, or talks.",
+    "symptoms": "Persistent cough that lasts three weeks or longer, Coughing up blood, Chest pain or pain with breathing or coughing, Unintentional weight loss, Fatigue, Fever, Night sweats, Chills, Loss of appetite",
+    "treatments": "TB is treated with a course of antibiotics over six to nine months. The most common medications include isoniazid, rifampin, ethambutol, and pyrazinamide.",
+    "source_link": "https://www.cdc.gov/tb/topic/basics/default.htm"
+  },
+  {
+    "disease_name": "Hepatitis B",
+    "about": "Hepatitis B is a serious liver infection caused by the hepatitis B virus (HBV).",
+    "causes": "It is spread through contact with infectious body fluids, such as blood, vaginal secretions, or semen. This can occur through sexual contact, sharing needles, or from mother to child during childbirth.",
+    "symptoms": "Abdominal pain, Dark urine, Fever, Joint pain, Loss of appetite, Nausea and vomiting, Weakness and fatigue, Yellowing of the skin and eyes (jaundice)",
+    "treatments": "Acute hepatitis B usually requires no treatment. Chronic hepatitis B is treated with antiviral medications to reduce the risk of liver damage and prevent the spread of the virus.",
+    "source_link": "https://www.cdc.gov/hepatitis/hbv/index.htm"
+  },
+  {
+    "disease_name": "HIV/AIDS",
+    "about": "HIV (human immunodeficiency virus) is a virus that attacks the body\u2019s immune system. If untreated, it can lead to AIDS (acquired immunodeficiency syndrome).",
+    "causes": "HIV is spread through contact with certain body fluids from an infected person, most commonly during unprotected sex or through sharing needles.",
+    "symptoms": "Fever, Chills, Rash, Night sweats, Muscle aches, Sore throat, Fatigue, Swollen lymph nodes",
+    "treatments": "There is no cure for HIV, but it can be controlled with antiretroviral therapy (ART), which helps people with HIV live long, healthy lives and reduces the risk of transmission.",
+    "source_link": "https://www.cdc.gov/hiv/basics/index.html"
+  },
+  {
+    "disease_name": "Gallstones",
+    "about": "Gallstones are hardened deposits of digestive fluid that form in your gallbladder.",
+    "causes": "The exact cause of gallstones is not known, but they can form when your bile contains too much cholesterol, bilirubin, or not enough bile salts.",
+    "symptoms": "Sudden and rapidly intensifying pain in the upper right portion of your abdomen, Sudden and rapidly intensifying pain in the center of your abdomen, just below your breastbone, Back pain between your shoulder blades, Pain in your right shoulder, Nausea or vomiting",
+    "treatments": "Treatment includes surgery to remove the gallbladder, known as cholecystectomy. Non-surgical options include medications to dissolve gallstones.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/gallstones/symptoms-causes/syc-20354214"
+  },
+  {
+    "disease_name": "Kidney Stones",
+    "about": "Kidney stones are hard deposits made of minerals and salts that form inside your kidneys.",
+    "causes": "They can form when your urine contains more crystal-forming substances, such as calcium, oxalate, and uric acid, than the fluid in your urine can dilute. Dehydration, certain diets, obesity, some medical conditions, and certain supplements and medications are common causes.",
+    "symptoms": "Severe pain in the side and back, below the ribs, Pain that radiates to the lower abdomen and groin, Pain that comes in waves and fluctuates in intensity, Painful urination, Pink, red, or brown urine, Cloudy or foul-smelling urine, Nausea and vomiting, Persistent need to urinate, Urinating more often than usual, Fever and chills if an infection is present",
+    "treatments": "Treatment includes drinking water to pass the stones, medications to relieve pain, and medical procedures to remove or break up larger stones. Procedures include extracorporeal shock wave lithotripsy (ESWL), ureteroscopy, and percutaneous nephrolithotomy.",
+    "source_link": "https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-stones"
+  },
+  {
+    "disease_name": "Sinusitis",
+    "about": "Sinusitis, or a sinus infection, is an inflammation or swelling of the tissue lining the sinuses.",
+    "causes": "It is usually caused by a viral infection, but can also be triggered by bacteria, fungi, allergies, or structural problems in the nasal cavity.",
+    "symptoms": "Facial pain or pressure, Nasal congestion, Nasal discharge, Loss of smell, Cough or congestion, Fever, Bad breath, Fatigue, Dental pain",
+    "treatments": "Treatment includes nasal decongestants, saline nasal sprays, pain relievers, and sometimes antibiotics if a bacterial infection is suspected. Chronic sinusitis may require corticosteroids or surgery.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/sinusitis/symptoms-causes/syc-20351673"
+  },
+  {
+    "disease_name": "Otitis Media (Ear Infection)",
+    "about": "Otitis media is an infection or inflammation of the middle ear.",
+    "causes": "It is often caused by bacteria or viruses that enter the ear from the throat or nasal passages. Allergies, colds, and sinus infections can contribute.",
+    "symptoms": "Ear pain, Fever, Hearing loss, Fluid drainage from the ear, Trouble sleeping, Crying more than usual in infants, Trouble hearing or responding to sounds",
+    "treatments": "Treatment includes pain management with over-the-counter pain relievers, antibiotics if a bacterial infection is present, and in some cases, surgical intervention to drain fluid or insert ear tubes.",
+    "source_link": "https://www.cdc.gov/antibiotic-use/ear-infection.html"
+  },
+  {
+    "disease_name": "Conjunctivitis (Pink Eye)",
+    "about": "Conjunctivitis, commonly known as pink eye, is an inflammation or infection of the outer membrane of the eyeball and the inner eyelid.",
+    "causes": "It can be caused by viruses, bacteria, allergens, or irritants such as smoke and pool chlorine.",
+    "symptoms": "Redness in one or both eyes, Itchiness in one or both eyes, A gritty feeling in one or both eyes, Discharge from one or both eyes that forms a crust during the night, Tearing",
+    "treatments": "Treatment depends on the cause. Viral conjunctivitis usually resolves on its own, bacterial conjunctivitis may require antibiotic eye drops, and allergic conjunctivitis can be treated with allergy medications and avoiding allergens.",
+    "source_link": "https://www.cdc.gov/conjunctivitis/index.html"
+  },
+  {
+    "disease_name": "Gastric Ulcers",
+    "about": "Gastric ulcers are open sores that develop on the lining of the stomach.",
+    "causes": "They are often caused by an infection with the bacterium Helicobacter pylori (H. pylori) or long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen.",
+    "symptoms": "Burning stomach pain, Bloating, Heartburn, Nausea, Fatty food intolerance",
+    "treatments": "Treatment includes medications to reduce stomach acid, such as proton pump inhibitors (PPIs) and H2 blockers, antibiotics to treat H. pylori infection, and lifestyle changes such as avoiding NSAIDs, alcohol, and smoking.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223"
+  },
+  {
+    "disease_name": "Pancreatitis",
+    "about": "Pancreatitis is inflammation of the pancreas, which can occur as acute pancreatitis or chronic pancreatitis.",
+    "causes": "Common causes include gallstones, chronic and excessive alcohol consumption, certain medications, and genetic conditions.",
+    "symptoms": "Upper abdominal pain, Abdominal pain that radiates to the back, Abdominal pain that feels worse after eating, Fever, Rapid pulse, Nausea, Vomiting",
+    "treatments": "Treatment includes fasting to allow the pancreas to recover, pain relief, intravenous fluids, and treating the underlying cause. Chronic pancreatitis may require dietary changes, enzyme supplements, or surgery.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/pancreatitis/symptoms-causes/syc-20360227"
+  },
+  {
+    "disease_name": "Hyperthyroidism",
+    "about": "Hyperthyroidism is a condition in which the thyroid gland produces too much of the hormone thyroxine.",
+    "causes": "Causes include Graves' disease, thyroid nodules, thyroiditis, and excessive iodine intake.",
+    "symptoms": "Unintentional weight loss, Rapid heartbeat, Increased appetite, Nervousness, anxiety, and irritability, Tremor, Sweating, Changes in menstrual patterns, Increased sensitivity to heat, Changes in bowel patterns",
+    "treatments": "Treatment includes anti-thyroid medications, radioactive iodine therapy, beta-blockers, and surgery to remove part or all of the thyroid gland.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373616"
+  },
+  {
+    "disease_name": "Hypothyroidism",
+    "about": "Hypothyroidism is a condition in which the thyroid gland does not produce enough thyroid hormone.",
+    "causes": "Common causes include Hashimoto's thyroiditis, thyroid surgery, radiation therapy, and certain medications.",
+    "symptoms": "Fatigue, Weight gain, Cold intolerance, Constipation, Dry skin, Puffy face, Hoarseness, Muscle weakness, Elevated blood cholesterol level, Thinning hair, Slowed heart rate, Depression, Impaired memory",
+    "treatments": "Treatment involves daily use of synthetic thyroid hormone levothyroxine to normalize hormone levels.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284"
+  },
+  {
+    "disease_name": "Obesity",
+    "about": "Obesity is a complex disease involving an excessive amount of body fat, increasing the risk of health problems.",
+    "causes": "Causes include genetic factors, overeating, physical inactivity, and certain medical conditions and medications.",
+    "symptoms": "Increased body weight and body fat, Shortness of breath, Joint pain, Increased sweating, Difficulty performing physical activities",
+    "treatments": "Treatment includes lifestyle changes such as diet and exercise, behavioral therapy, medications, and in some cases, weight-loss surgery.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742"
+  },
+  {
+    "disease_name": "Gout",
+    "about": "Gout is a form of inflammatory arthritis characterized by sudden, severe attacks of pain, swelling, redness, and tenderness in one or more joints, most often in the big toe.",
+    "causes": "Gout occurs when urate crystals accumulate in your joint, causing the inflammation and intense pain of a gout attack. These crystals can form when you have high levels of uric acid in your blood. Factors that increase uric acid levels include diet, obesity, medical conditions like hypertension, certain medications, and genetics.",
+    "symptoms": "Intense joint pain, often in the big toe, Lingering discomfort after the initial pain subsides, Inflammation and redness, Limited range of motion in the affected joint",
+    "treatments": "Treatment typically includes medications such as nonsteroidal anti-inflammatory drugs (NSAIDs), colchicine, and corticosteroids to reduce inflammation and pain. Long-term management involves medications to lower uric acid levels, dietary changes to avoid high-purine foods, and lifestyle modifications such as weight loss and increased hydration.",
+    "source_link": "https://www.verywellhealth.com/gout-4157198"
+  },
+  {
+    "disease_name": "Hepatitis C",
+    "about": "Hepatitis C is a viral infection that causes liver inflammation and can lead to serious liver damage.",
+    "causes": "It is primarily spread through contact with infected blood. This can occur through sharing needles, unsanitary tattooing practices, and, less commonly, through sexual contact and from mother to baby during childbirth.",
+    "symptoms": "Fatigue, Fever, Nausea or poor appetite, Muscle and joint pains, Jaundice (yellowing of the skin and eyes), Dark urine, Itchy skin, Abdominal pain",
+    "treatments": "Treatment typically involves antiviral medications aimed at clearing the virus from the body. Newer treatments can cure most cases of Hepatitis C with fewer side effects and shorter treatment durations.",
+    "source_link": "https://www.cdc.gov/hepatitis/hcv/index.htm"
+  },
+  {
+    "disease_name": "Peptic Ulcer Disease",
+    "about": "Peptic ulcer disease (PUD) involves open sores that develop on the inner lining of your stomach and the upper portion of your small intestine.",
+    "causes": "The most common causes are infection with the bacterium Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs).",
+    "symptoms": "Burning stomach pain, Bloating, Heartburn, Nausea, Intolerance to fatty foods",
+    "treatments": "Treatment involves antibiotics to eradicate H. pylori, medications to reduce stomach acid, and lifestyle changes such as avoiding NSAIDs, alcohol, and smoking.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223"
+  },
+  {
+    "disease_name": "Anemia",
+    "about": "Anemia is a condition in which you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues.",
+    "causes": "Anemia can be caused by a variety of factors including iron deficiency, vitamin B12 deficiency, chronic diseases, genetic conditions, and blood loss.",
+    "symptoms": "Fatigue, Weakness, Pale or yellowish skin, Irregular heartbeats, Shortness of breath, Dizziness or lightheadedness, Chest pain, Cold hands and feet",
+    "treatments": "Treatment depends on the cause and may include dietary supplements, medications, and procedures such as blood transfusions or bone marrow transplants.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360"
+  },
+  {
+    "disease_name": "Chickenpox",
+    "about": "Chickenpox is a highly contagious viral infection causing an itchy, blister-like rash on the skin.",
+    "causes": "It is caused by the varicella-zoster virus and spreads easily from an infected person to others who have never had the disease or been vaccinated.",
+    "symptoms": "Fever, Loss of appetite, Headache, Tiredness and malaise, Red, itchy rash that turns into fluid-filled blisters and eventually scabs",
+    "treatments": "Treatment typically focuses on relieving symptoms with over-the-counter medications, antihistamines for itching, and antiviral medications in severe cases.",
+    "source_link": "https://www.cdc.gov/chickenpox/about/index.html"
+  },
+  {
+    "disease_name": "Mononucleosis",
+    "about": "Mononucleosis, often called mono, is an infectious disease usually caused by the Epstein-Barr virus (EBV).",
+    "causes": "It spreads through saliva, hence it's sometimes called the 'kissing disease'. It can also be spread through coughing, sneezing, or sharing utensils.",
+    "symptoms": "Fatigue, Sore throat, Fever, Swollen lymph nodes in the neck and armpits, Swollen tonsils, Headache, Skin rash, Soft, swollen spleen",
+    "treatments": "There is no specific treatment for mono. Rest, fluids, and over-the-counter pain and fever reducers can help alleviate symptoms. Severe symptoms might require corticosteroids.",
+    "source_link": "https://www.mayoclinic.org/diseases-conditions/mononucleosis/symptoms-causes/syc-20350328"
+  }
+]
